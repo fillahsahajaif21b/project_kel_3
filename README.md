@@ -1,6 +1,6 @@
-Kelas : If21B
-nama project : Aplikasi Event
-kelompok : 3
+Kelas : If21B (Event Kampus)
+nama project : project_kel_3
+kelompok 3
 anggota : 
 1. Fillah Sahaja
 2. Habibu Rohman
